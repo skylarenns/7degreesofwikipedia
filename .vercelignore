@@ -1,0 +1,10 @@
+artifacts/
+data/
+dist/
+deploy/
+src/
+node_modules/
+frontend/node_modules/
+frontend/.next/
+.build/
+*.log

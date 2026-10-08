@@ -19,7 +19,7 @@ const azeretMono = Azeret_Mono({
 
 export const metadata: Metadata = {
   title: 'Seven Degrees of Wikipedia',
-  description: 'Find the shortest path between any two Wikipedia articles',
+  description: 'Project decommissioned. Have a good day!',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

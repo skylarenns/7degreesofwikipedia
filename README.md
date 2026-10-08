@@ -1,6 +1,8 @@
 # Seven Degrees of Wikipedia
 
-Server-hosted Wikipedia shortest-path app with a Next.js client, a Fastify graph/search backend, and a deployment shape that works cleanly behind a single Cloudflare Tunnel.
+**Decommissioned October 8, 2026.** The production frontend displays “Project decommissioned. Have a good day!” Frontend API routes and the former lazy proxy return HTTP 410 without starting the graph backend. The backend service has been stopped; the source and graph artifacts are retained.
+
+The documentation below describes the former Wikipedia shortest-path app.
 
 ## What It Does
 
