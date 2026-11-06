@@ -1,3 +1,5 @@
+> Hosting status (2026-11-06): see the [verified retirement and retained-dependency record](../docs/hosting-retirement-2026-11-06.md). Old public URL examples below may be historical; Vercel binding removal alone does not establish DNS/backend retirement.
+
 # Seven Degrees of Wikipedia
 
 A single-view, constellation-map Wikipedia path explorer backed by the real graph runtime.
